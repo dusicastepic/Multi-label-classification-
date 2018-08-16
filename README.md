@@ -1,2 +1,4 @@
 # Multi-label-classification-
-Multi label classification practice
+
+
+EXPERIMENTAL COMPARISON OF MULTI-LABEL LEARNING METHODS
